@@ -1,0 +1,31 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 500;
+}
+h1,h2, h3{
+    padding-bottom: 4%;
+    text-align: center;
+}
+.header{
+    background-color: rgba(6, 6, 56, 0.87);
+    color: #ffffff;
+    text-align: center;
+    height: 600px;
+     padding: 5% 8%;
+}
+.middle, .award, .pic, footer{
+    padding: 4% 4% 3%;
+}
+.middle, .pic{
+    background-color: grey;
+    color: #fff;
+}
+.award, footer{
+    background-color: rgba(6, 6, 56, 0.87);
+    color: #ffffff;
+}
+footer{
+    text-align: center;
+    height: 150px;
+    font-size: 15px;
+}
